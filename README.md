@@ -1,4 +1,6 @@
-# 👄 Vibe to Spec
+# Vibe to Spec
+
+<img src="icon.png" width="160">
 
 ![Agnostic](https://img.shields.io/badge/Agent-Agnostic-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
@@ -7,6 +9,13 @@
 **Stop AI Agents from Over-Engineering. Convert natural language into structured, precise specifications.**
 
 > "Humans speak in 'vibes,' but AI operates on 'logic.' This is the bridge."
+
+### 🌈 Interactive Demos
+| Galactic Bounty Hunter | Zen Garden Dashboard | SaaS Subscription Logic |
+| :---: | :---: | :---: |
+| <img src="demo_tacos.png" width="280"> | <img src="demo_zen.png" width="280"> | <img src="demo_saas.png" width="280"> |
+
+*Click to enlarge. All specifications are generated directly from natural language vibes.*
 
 ---
 
