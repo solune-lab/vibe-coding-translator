@@ -6,16 +6,29 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-**Stop AI Agents from Over-Engineering. Convert natural language into structured, precise specifications.**
+---
+## **Stop AI Agents from Over-Engineering. Convert natural language into structured, precise specifications.**
 
-> "Humans speak in 'vibes,' but AI operates on 'logic.' This is the bridge."
+> [!TIP]
+> **[Try it Now: soluneai.com/vibe-to-spec](https://soluneai.com/vibe-to-spec)**
+> **Get 3 Free Specifications automatically upon sign-in.**
 
-### 🌈 Interactive Demos
-| Galactic Bounty Hunter | Zen Garden Dashboard | SaaS Subscription Logic |
-| :---: | :---: | :---: |
-| <img src="demo_tacos.png" width="280"> | <img src="demo_zen.png" width="280"> | <img src="demo_saas.png" width="280"> |
+---
 
-*Click to enlarge. All specifications are generated directly from natural language vibes.*
+### 🌈 High-Precision Demos
+*Specifications below are 100% generated from a single "vibe" prompt.*
+
+#### 1. SaaS Subscription Logic
+*Complex business logic simplified into clear implementation steps.*
+![SaaS Demo](demo_saas.png)
+
+#### 2. Zen Garden Dashboard
+*Cozy, minimal UI requirements with precise component breakdowns.*
+![Zen Demo](demo_zen.png)
+
+#### 3. Galactic Bounty Hunter
+*Creative prompts translated into robust data structures.*
+![Tacos Demo](demo_tacos.png)
 
 ---
 
