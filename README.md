@@ -62,10 +62,16 @@ This project is a core component of [The Vibe Stack](https://github.com/solune-l
 ---
 
 ## 🤝 Contributing
+
 Have a template or a logic improvement? PRs are always welcome! 
 
-## 🌟 Support
-If this tool saved your sanity, please give it a **Star**!
+## 🌟 Support & Connect
+
+If this workflow saved your tokens (and your sanity), please give this repository a 💫**Star**!
+
+### 📢 Stay Updated
+* **Twitter / X**: [@soluneai](https://x.com/soluneai)
+* **Threads**: [@soluneai_com](https://www.threads.net/@soluneai_com)
 
 ---
-*Built by @soluneai. Stay precise.*
+*Built by a frugal developer, for frugal developers. Stay efficient.*
