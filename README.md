@@ -7,7 +7,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 ---
-## **Stop AI Agents from Over-Engineering. Convert natural language into structured, precise specifications.**
+## **Stop AI Over-Engineering & Save Tokens. Convert natural language into structured, cost-efficient specifications.**
 
 > [!TIP]
 > **[Try it Now: soluneai.com/vibe-to-spec](https://soluneai.com/vibe-to-spec)**
