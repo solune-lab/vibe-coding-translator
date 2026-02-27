@@ -36,14 +36,15 @@
 When you tell an AI to "make this look better" or "fix the layout," it often:
 1.  **Guesses blindly**, leading to unintended side effects.
 2.  **Over-engineers** simple components into complex spaghetti code.
-3.  **Vanishes your quota** in less than 30 minutes due to endless revisions.
+3.  **Vanishes your quota**—Endless, unguided revisions can burn through your token budget in minutes.
 
-`Vibe to Spec` is the precision engine designed to eliminate this ambiguity.
+`Vibe to Spec` is the precision engine designed to eliminate this ambiguity and **stop the token burn**.
 
 ## 🚀 How it Works
 This tool acts as a **Communication Bridge**. It translates your messy thoughts into industrial-grade AI instructions with:
-* **Scope Locking**: Ensures the AI only modifies what you intended.
+* **Scope Locking**: Ensures the AI only modifies what you intended, preventing expensive "logic drifts."
 * **Surgical Precision**: Built-in coordinate offsets and specific UI logic.
+* **Token Efficiency**: By providing a rigid "Ground Truth," you eliminate redundant model calls and "hallucination loops."
 * **Zero Misunderstanding**: Formats requirements into a language that Agents (Claude Code, Cursor, Windsurf) cannot ignore.
 
 ## 📦 Part of The Vibe Stack
@@ -57,7 +58,7 @@ This project is a core component of [The Vibe Stack](https://github.com/solune-l
 1.  Access the tool: [soluneai.com/vibe-to-spec](https://soluneai.com/vibe-to-spec)
 2.  Input your "Vibe" (e.g., *"Make the header more modern and fix the mobile padding"*).
 3.  Get the "Spec" — a structured prompt optimized for AI Agents.
-4.  Paste it into your Agent and watch it execute with 100% accuracy.
+4.  Paste it into your Agent and **save your tokens** by getting it right the first time.
 
 ---
 
