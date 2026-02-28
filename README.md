@@ -7,7 +7,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 ---
-## **Stop AI Over-Engineering & Save Tokens. Translate messy natural language into structured, surgical-grade AI instructions.**
+## **Stop AI Over-Engineering & Save Tokens. Translate natural language into structured, unambiguous prompts.**
 
 > [!TIP]
 > **[Try it Now: soluneai.com/vibe-coding-translator](https://soluneai.com/vibe-coding-translator/)**
